@@ -2,7 +2,7 @@
 
 My name is Gabriel G. de Brito.
 
-I'm a Computer science student at [computing department of the Federal
+I'm a Computer Science student at [computing department of the Federal
 University of Paraná](https://web.inf.ufpr.br/dinf/). I like Rust, C, Go, Lua
 and Haskell.
 
