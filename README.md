@@ -1,11 +1,6 @@
-# Hello UwU
+# Hello
 
-My name is Gabriel G. de Brito.
+My name is Gabriel and I'm a computer science student at
+[UFPR](https://web.inf.ufpr.br/dinf/).
 
-I'm a Computer Science student at [computing department of the Federal
-University of Paraná](https://web.inf.ufpr.br/dinf/).
-
-I make cool stuff at the [HiPES Research Group](https://github.com/hipes-ufpr).
-
-I'm interested in computer architecture and chip design, parallel and high
-efficient programming, compilers, hardware and hardware acceleration.
+I like computers and alcohol.
